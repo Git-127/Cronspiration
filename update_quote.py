@@ -1,14 +1,26 @@
-# Daily Dev Quote – Personal Inspiration
+import requests
+import datetime
+
+def get_quote():
+    url = "https://dummyjson.com/quotes/random"
+    try:
+        response = requests.get(url)
+        response.raise_for_status()
+        data = response.json()
+        return f'"{data["quote"]}" — {data["author"]}'
+    except Exception as e:
+        return '"Code is like humor. When you have to explain it, it’s bad." — Cory House'
+
+def update_readme(quote):
+    date_str = datetime.datetime.now().strftime("%Y-%m-%d %H:%M UTC")
+    readme_content = f"""# Daily Dev Quote – Personal Inspiration
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python 3.x](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "If all you can do is crawl, start crawling." — Rumi
-
----
-> A small, honest automation project that updates a fresh developer quote every day.
+> {quote}
 
 ---
 
@@ -71,4 +83,12 @@ Within a minute you'll see a new commit on your main branch.
 
 ## License
 
-MIT – do whatever you want with the code. Go build your own automated quote machine, or turn it into a daily dad-joke.
+MIT – do whatever you want with the code. Go build your own automated quote machine, or turn it into a daily dad-joke bot.
+"""
+    with open("README.md", "w", encoding="utf-8") as f:
+        f.write(readme_content)
+
+if __name__ == "__main__":
+    quote = get_quote()
+    update_readme(quote)
+    print("README.md updated successfully!")
