@@ -7,9 +7,9 @@ def get_quote():
         response = requests.get(url)
         response.raise_for_status()
         data = response.json()
-        return f'"{data["quote"]}" — {data["author"]}'
+        return f'"{data["quote"]}" - {data["author"]}'
     except Exception as e:
-        return '"Code is like humor. When you have to explain it, it’s bad." — Cory House'
+        return '"Code is like humor. When you have to explain it, it’s bad." - Cory House'
 
 def update_readme(quote):
     date_str = datetime.datetime.now().strftime("%Y-%m-%d %H:%M UTC")
