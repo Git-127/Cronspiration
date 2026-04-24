@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Champions come and go, but to be legendary you got to have heart, more heart than the next man, more than anyone in the world." - Muhammad Ali
+> "Do Whatever You Will, But First Be Such As Are Able To Will." - Friedrich Nietzsche
 
 ---
 
