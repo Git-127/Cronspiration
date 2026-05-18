@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Fear Allah, for He alone lives; all other things are liable to perish." — Umar ibn Al-Khattāb (R.A)
+> "Sit with those who love Allah, for that enlightens the mind." — Umar ibn Al-Khattāb (R.A)
 
 ---
 
