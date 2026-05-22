@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "He who understands humanity seeks solitude." — Ali ibn Abi Talib (R.A)
+> "Travel brings power and love back into your life." — Rumi
 
 ---
 
