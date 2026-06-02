@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "All black Americans have slave names. They have white names; names that the slave master has given to them." — Muhammad Ali
+> "Just Go Up To Somebody On The Street And Say "You'Re It!" And Then Run Away." — Ellen DeGeneres
 
 ---
 
