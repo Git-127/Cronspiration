@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "The wiser a man is, the less talkative will he be." — Ali ibn Abi Talib (R.A)
+> "All black Americans have slave names. They have white names; names that the slave master has given to them." — Muhammad Ali
 
 ---
 
