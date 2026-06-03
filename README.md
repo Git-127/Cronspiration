@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Man Will Do Many Things To Get Himself Loved, He Will Do All Things To Get Himself Envied." — Mark Twain
+> "Men Occasionally Stumble Over The Truth, But Most Of Them Pick Themselves Up And Hurry Off As If Nothing Had Happened." — Winston Churchill
 
 ---
 
