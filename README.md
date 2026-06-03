@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Opportunity Is Missed By Most People Because It Is Dressed In Overalls And Looks Like Work." — Thomas A. Edison
+> "Man Will Do Many Things To Get Himself Loved, He Will Do All Things To Get Himself Envied." — Mark Twain
 
 ---
 
