@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Monsters Are Real, And Ghosts Are Real Too. They Live Inside Us, And Sometimes, They Win." — Stephen King
+> "I Think It'S Nice For Women To Try To Be Sexy For Their Man." — Salma Hayek
 
 ---
 
