@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Scientific Thought And Its Creation Is The Common And Shared Heritage Of Mankind." — Abdus Salam
+> "Monsters Are Real, And Ghosts Are Real Too. They Live Inside Us, And Sometimes, They Win." — Stephen King
 
 ---
 
