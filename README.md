@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "The youth need to be enabled to become job generators from job seekers." — Abdul Kalam
+> "He Who Fears To Weep, Should Learn To Be Kind To Those Who Weep." — Abu Bakr
 
 ---
 
