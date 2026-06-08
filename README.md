@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "He Who Fears To Weep, Should Learn To Be Kind To Those Who Weep." — Abu Bakr
+> "One who thinks and reflects develops his foresight and vision." — Ali ibn Abi Talib (R.A)
 
 ---
 
