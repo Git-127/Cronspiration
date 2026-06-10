@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Chains Of Habit Are Too Light To Be Felt Until They Are Too Heavy To Be Broken." — Warren Buffett
+> "In Order To Be An Immaculate Member Of A Flock Of Sheep, One Must Above All Be A Sheep Oneself." — Albert Einstein
 
 ---
 
