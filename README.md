@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "In Order To Be An Immaculate Member Of A Flock Of Sheep, One Must Above All Be A Sheep Oneself." — Albert Einstein
+> "History, Despite Its Wrenching Pain, Cannot Be Unlived, But If Faced With Courage, Need Not Be Lived Again." — Maya Angelou
 
 ---
 
