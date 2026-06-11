@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "History, Despite Its Wrenching Pain, Cannot Be Unlived, But If Faced With Courage, Need Not Be Lived Again." — Maya Angelou
+> "Do Not Be Too Hard, Lest You Be Broken; Do Not Be Too Soft, Lest You Be Squeezed." — Ali Ibn Abi Talib
 
 ---
 
