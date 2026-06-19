@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "To fight against one's desires is the greatest of all fights." — Ali ibn Abi Talib (R.A)
+> "It is a matter of shame that in the morning the birds should be awake earlier than you." — Abu Bakr (R.A)
 
 ---
 
