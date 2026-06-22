@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Every Day, Nay Every Moment, Try To Do Some Good Deed." — Abu Bakr
+> "A Penny Saved Is A Penny Earned." — Benjamin Franklin
 
 ---
 
