@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "The true believer is rewarded in every thing, even in affliction." — Abu Bakr (R.A)
+> "When A Hundred Men Stand Together, Each Of Them Loses His Mind And Gets Another One." — Friedrich Nietzsche
 
 ---
 
