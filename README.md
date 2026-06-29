@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Without your involvement you can't succeed. With your involvement you can't fail." — Abdul Kalam
+> "It's just a job. Grass grows, birds fly, waves pound the sand. I beat people up." — Muhammad Ali
 
 ---
 
