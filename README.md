@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "One of the very important characteristics of a student is to question. Let the students ask questions." — Abdul Kalam
+> "Do not be too hard, lest you be broken; do not be too soft, lest you be squeezed." — Ali ibn Abi Talib (R.A)
 
 ---
 
