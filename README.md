@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Not the ones speaking the same language, but the ones sharing the same feeling understand each other." — Rumi
+> "One of the very important characteristics of a student is to question. Let the students ask questions." — Abdul Kalam
 
 ---
 
