@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "When Red-Haired People Are Above A Certain Social Grade Their Hair Is Auburn." — Mark Twain
+> "Common Sense Is The Collection Of Prejudices Acquired By Age Eighteen." — Albert Einstein
 
 ---
 
