@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Acquire knowledge, and learn tranquility and dignity." — Umar ibn Al-Khattāb (R.A)
+> "Work As If You Were To Live A Hundred Years. Pray As If You Were To Die Tomorrow." — Benjamin Franklin
 
 ---
 
