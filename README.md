@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Piety is the most solid goodness, and the vilest of what is evil is vice." — Abu Bakr (R.A)
+> "If all you can do is crawl, start crawling." — Rumi
 
 ---
 
