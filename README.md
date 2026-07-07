@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "My worthiness is all my doubt His Merit- all my fear- Contrasting which my quality Does however appear." — Abdul Kalam
+> "What Doesn'T Kill Us Makes Us Stronger." — Friedrich Nietzsche
 
 ---
 
