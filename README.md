@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Everyone Should Be Respected As An Individual, But No One Idolized." — Albert Einstein
+> "My worthiness is all my doubt His Merit- all my fear- Contrasting which my quality Does however appear." — Abdul Kalam
 
 ---
 
