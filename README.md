@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Strength Does Not Come From Physical Capacity. It Comes From An Indomitable Will." — Mahatma Gandhi
+> "Praise Allah, for by praise His blessings multiply." — Umar ibn Al-Khattāb (R.A)
 
 ---
 
