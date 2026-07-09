@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "It Is Not The Employer Who Pays The Wages. Employers Only Handle The Money. It Is The Customer Who Pays The Wages." — Henry Ford
+> "The Very Essence Of Instinct Is That It'S Followed Independently Of Reason." — Charles Darwin
 
 ---
 
