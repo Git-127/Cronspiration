@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Take Things As They Are. Punch When You Have To Punch. Kick When You Have To Kick." — Bruce Lee
+> "Many Foxes Grow Gray But Few Grow Good." — Benjamin Franklin
 
 ---
 
