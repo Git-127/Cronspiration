@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "I Love Sleep. My Life Has The Tendency To Fall Apart When I'M Awake, You Know?" — Ernest Hemingway
+> "Sit with those who love Allah, for that enlightens the mind." — Umar ibn Al-Khattāb (R.A)
 
 ---
 
