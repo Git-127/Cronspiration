@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "If You Come To Fame Not Understanding Who You Are, It Will Define Who You Are." — Oprah Winfrey
+> "Potentially, A Government Is The Most Dangerous Threat To Man'S Rights: It Holds A Legal Monopoly On The Use Of Physical Force Against Legally Disarmed Victims." — Ayn Rand
 
 ---
 
