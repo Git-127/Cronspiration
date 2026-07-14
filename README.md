@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Potentially, A Government Is The Most Dangerous Threat To Man'S Rights: It Holds A Legal Monopoly On The Use Of Physical Force Against Legally Disarmed Victims." — Ayn Rand
+> "Confidence and hard work is the best medicine to kill the disease called failure. It will make you successful person." — Abdul Kalam
 
 ---
 
