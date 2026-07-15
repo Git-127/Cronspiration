@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Confidence and hard work is the best medicine to kill the disease called failure. It will make you successful person." — Abdul Kalam
+> "The art of knowing is knowing what to ignore." — Rumi
 
 ---
 
