@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "The Criminal Is Trying To Solve His Immediate Problems." — Naguib Mahfouz
+> "Laziness May Appear Attractive, But Work Gives Satisfaction." — Anne Frank
 
 ---
 
