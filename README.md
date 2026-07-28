@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Those doing soul work, who want the searing truth more than solace or applause, know each other right away. Those who want something else turn and take a seat in another room. Soul-makers find each other's company." — Rumi
+> "A Happy Marriage Is The Union Of Two Good Forgivers." — Ruth Graham
 
 ---
 
