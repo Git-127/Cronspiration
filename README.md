@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "It's the lack of faith that makes people afraid of meeting challenges, and I believe in myself. He who is not courageous enough to take risks will accomplish nothing in life. I figured that if I said it enough, I would convince the world that I really was the greatest." — Muhammad Ali
+> "Mine Is Better Than Ours." — Benjamin Franklin
 
 ---
 
