@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "When A Father Gives To His Son, Both Laugh; When A Son Gives To His Father, Both Cry." — William Shakespeare
+> "Have An Earnestness For Death And You Will Have Life." — Abu Bakr
 
 ---
 
