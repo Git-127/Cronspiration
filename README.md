@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Lead such a life, that, when you die, the people may mourn you, and while you are alive they long for your company." — Ali ibn Abi Talib (R.A)
+> "When A Father Gives To His Son, Both Laugh; When A Son Gives To His Father, Both Cry." — William Shakespeare
 
 ---
 
