@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "I Like To See A Man Proud Of The Place In Which He Lives. I Like To See A Man Live So That His Place Will Be Proud Of Him." — Abraham Lincoln
+> "India has to be transformed into a developed nation, a prosperous nation and a healthy nation, with a value system." — Abdul Kalam
 
 ---
 
