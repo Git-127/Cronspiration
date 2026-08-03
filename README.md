@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "India has to be transformed into a developed nation, a prosperous nation and a healthy nation, with a value system." — Abdul Kalam
+> "If A Free Society Cannot Help The Many Who Are Poor, It Cannot Save The Few Who Are Rich." — John F. Kennedy
 
 ---
 
