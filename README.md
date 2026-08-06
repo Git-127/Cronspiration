@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Eros Will Have Naked Bodies; Friendship Naked Personalities." — C. S. Lewis
+> "I fear the day when the Kuffar are proud of their falsehood, and the Muslims are shy of their faith." — Umar ibn Al-Khattāb (R.A)
 
 ---
 
