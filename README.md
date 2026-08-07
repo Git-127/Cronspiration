@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "I fear the day when the Kuffar are proud of their falsehood, and the Muslims are shy of their faith." — Umar ibn Al-Khattāb (R.A)
+> "Not every man with a heart is understanding, nor every man with an ear a listener, and nor every man with eyes able to see." — Ali ibn Abi Talib (R.A)
 
 ---
 
