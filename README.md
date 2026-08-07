@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Not every man with a heart is understanding, nor every man with an ear a listener, and nor every man with eyes able to see." — Ali ibn Abi Talib (R.A)
+> "I'm most proud of my family." — Muhammad Ali
 
 ---
 
