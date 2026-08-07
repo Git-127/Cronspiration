@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "If you love someone, you are always joined with them - in joy, in absence, in solitude, in strife." — Rumi
+> "To fight against the infidels is Jihad; but to fight against your evil self is greater Jihad." — Abu Bakr (R.A)
 
 ---
 
