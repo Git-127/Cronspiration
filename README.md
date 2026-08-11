@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "I Put My Heart And My Soul Into My Work, And Have Lost My Mind In The Process." — Vincent Van Gogh
+> "A Successful Man Is One Who Can Lay A Firm Foundation With The Bricks Others Have Thrown At Him." — David Brinkley
 
 ---
 
