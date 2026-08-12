@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+> "In the big leagues everyone has ability. It always comes down to mind games. Who ever is more mentally strong-wins." — Muhammad Ali
 
 ---
 
