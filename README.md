@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "The Public Is Merely A Multiplied "Me."" — Mark Twain
+> "We Continue To Shape Our Personality All Our Life. If We Knew Ourselves Perfectly, We Should Die." — Albert Camus
 
 ---
 
