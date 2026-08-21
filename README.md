@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "We Can Complain Because Rose Bushes Have Thorns, Or Rejoice Because Thorn Bushes Have Roses." — Abraham Lincoln
+> "The Public Is Merely A Multiplied "Me."" — Mark Twain
 
 ---
 
