@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "No Great Intellectual Thing Was Ever Done By Great Effort." — Theodore Roosevelt
+> "Real Loss Is Only Possible When You Love Something More Than You Love Yourself." — Robin Williams
 
 ---
 
