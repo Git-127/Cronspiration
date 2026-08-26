@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Many Marriages Would Be Better If The Husband And The Wife Clearly Understood That They Are On The Same Side." — Zig Ziglar
+> "We Are Not Trying To Entertain The Critics. I'Ll Take My Chances With The Public." — Walt Disney
 
 ---
 
