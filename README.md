@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Hide the good you do, and make known the good done to you." — Ali ibn Abi Talib (R.A)
+> "There Is No Substitute For Hard Work." — Thomas A. Edison
 
 ---
 
