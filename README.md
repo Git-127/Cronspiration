@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Do not be like those on whom advice has no effect and who require punishment to correct themselves." — Ali ibn Abi Talib (R.A)
+> "I Paint Self-Portraits Because I Am So Often Alone, Because I Am The Person I Know Best." — Frida Kahlo
 
 ---
 
