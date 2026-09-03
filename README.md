@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "There is greatness in the fear of God, contentment in faith of God, and honour in humility." — Abu Bakr (R.A)
+> "He Who Angers You Conquers You." — Elizabeth Kenny
 
 ---
 
