@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "I Paint Self-Portraits Because I Am So Often Alone, Because I Am The Person I Know Best." — Frida Kahlo
+> "There is greatness in the fear of God, contentment in faith of God, and honour in humility." — Abu Bakr (R.A)
 
 ---
 
