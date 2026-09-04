@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "There is no capital more useful than intellect and wisdom, and there is no indigence more injurious than ignorance and unawareness." — Ali ibn Abi Talib (R.A)
+> "To succeed in your mission, you must have single-minded devotion to your goal." — Abdul Kalam
 
 ---
 
