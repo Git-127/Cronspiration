@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "When We Lose One Blessing, Another Is Often Most Unexpectedly Given In Its Place." — C. S. Lewis
+> "To be a great champion you must believe you are the best. If you're not, pretend you are." — Muhammad Ali
 
 ---
 
