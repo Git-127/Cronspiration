@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "To be a great champion you must believe you are the best. If you're not, pretend you are." — Muhammad Ali
+> "Be a lamp, or a lifeboat, or a ladder. Help someone's soul heal. Walk out of your house like a shepherd." — Rumi
 
 ---
 
