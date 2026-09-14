@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Success Is A Lousy Teacher. It Seduces Smart People Into Thinking They Can'T Lose." — Bill Gates
+> "You Were Born To Win, But To Be A Winner, You Must Plan To Win, Prepare To Win, And Expect To Win." — Zig Ziglar
 
 ---
 
