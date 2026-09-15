@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "You Were Born To Win, But To Be A Winner, You Must Plan To Win, Prepare To Win, And Expect To Win." — Zig Ziglar
+> "There's no one with intelligence in this town except that man over there playing with the children, the one riding the stick horse. He has keen, fiery insight and vast dignity like the night sky, but he conceals it in the madness of child's play." — Rumi
 
 ---
 
