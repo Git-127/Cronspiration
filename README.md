@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Close your eyes, fall in Love, stay there." — Rumi
+> "Don'T Go Around Saying The World Owes You A Living. The World Owes You Nothing. It Was Here First." — Mark Twain
 
 ---
 
