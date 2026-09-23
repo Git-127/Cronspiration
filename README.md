@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Success Is Not Final, Failure Is Not Fatal: It Is The Courage To Continue That Counts." — Winston Churchill
+> "There is a way between voice and presence, where information flows. In disciplined silence it opens; with wandering talk it closes." — Rumi
 
 ---
 
