@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "If You Hear A Voice Within You Say 'You Cannot Paint ' Then By All Means Paint, And That Voice Will Be Silenced." — Vincent Van Gogh
+> "Whoever knocks persistently, ends by entering." — Muhammad Ali
 
 ---
 
