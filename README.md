@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "If You Have Good Thoughts They Will Shine Out Of Your Face Like Sunbeams And You Will Always Look Lovely." — Roald Dahl
+> "Things May Come To Those Who Wait, But Only The Things Left By Those Who Hustle." — Abraham Lincoln
 
 ---
 
