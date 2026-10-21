@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Behind All Their Personal Vanity, Women Themselves Always Have An Impersonal Contempt For Woman." — Friedrich Nietzsche
+> "Without knowledge action is useless and knowledge without action is futile." — Abu Bakr (R.A)
 
 ---
 
