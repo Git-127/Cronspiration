@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Do not put off today's work for tomorrow." — Umar ibn Al-Khattāb (R.A)
+> "Dreams are not those which comes while we are sleeping, but dreams are those when u don't sleep before fulfilling them." — Abdul Kalam
 
 ---
 
