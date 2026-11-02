@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "You have escaped the cage. Your wings are stretched out. Now fly." — Rumi
+> "When you see that any scholar loves the world, then his scholarship is in doubt." — Umar ibn Al-Khattāb (R.A)
 
 ---
 
