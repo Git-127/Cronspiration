@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Isn'T It Strange That I Who Have Written Only Unpopular Books Should Be Such A Popular Fellow?" — Albert Einstein
+> "These Capitalists Generally Act Harmoniously And In Concert, To Fleece The People." — Abraham Lincoln
 
 ---
 
