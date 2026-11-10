@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Your heart is the size of an ocean. Go find yourself in its hidden depths." — Rumi
+> "Never Allow Someone To Be Your Priority While Allowing Yourself To Be Their Option." — Mark Twain
 
 ---
 
