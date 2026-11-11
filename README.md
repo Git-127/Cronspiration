@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "You have to dream before your dreams can come true." — Abdul Kalam
+> "It Is The Supreme Art Of The Teacher To Awaken Joy In Creative Expression And Knowledge." — Albert Einstein
 
 ---
 
