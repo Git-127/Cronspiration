@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "We Shall Require A Substantially New Manner Of Thinking If Mankind Is To Survive." — Albert Einstein
+> "You show your worth by what you seek." — Rumi
 
 ---
 
