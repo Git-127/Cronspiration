@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "Don't get lost in your pain, know that one day your pain will become your cure." — Rumi
+> "We Shall Require A Substantially New Manner Of Thinking If Mankind Is To Survive." — Albert Einstein
 
 ---
 
