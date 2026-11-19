@@ -5,7 +5,7 @@
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-YAML-2088FF?logo=github-actions&logoColor=white)](.github/workflows/daily-quote.yml)
 [![API](https://img.shields.io/badge/API-DummyJSON-ff69b4)](https://dummyjson.com/quotes/random)
 
-> "It Is very easy to defeat someone, but it is very hard to win someone." — Abdul Kalam
+> "My health is in the hands of Allah, who has ways of testing us. Whatever happens, happens. I a'int the greatest - it's Allah. I gave myself a job. I work for God." — Muhammad Ali
 
 ---
 
